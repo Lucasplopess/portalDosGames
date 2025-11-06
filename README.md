@@ -34,7 +34,7 @@ O objetivo deste projeto é criar um site com navegação intuitiva, usando boas
 | `rpg.html`          | Página dedicada ao gênero de RPG.                                     |
 | `fps.html`          | Página dedicada ao gênero de FPS.                                     |
 | `sobre.html`        | Página sobre o portal, explicando objetivo e autor.                    |
-| `contato.html`      | Formulário ou informações para contato (se aplicável).                |
+| `contato.html`      | Formulário ou informações para contato                                  |
 | `/css/`             | Pasta de estilos CSS.                                                  |
 | `/img/`             | Pasta de imagens utilizadas no site.                                   |
 | `/js/`              | Pasta de scripts JavaScript para funcionalidades extras.               |
@@ -62,3 +62,4 @@ O objetivo deste projeto é criar um site com navegação intuitiva, usando boas
 Este projeto foi desenvolvido como parte de um **trabalho acadêmico** do curso de **Análise e Desenvolvimento de Sistemas**, com o objetivo de praticar conceitos de **HTML, CSS e JavaScript** aplicados à criação de sites.  
 
 O código pode ser utilizado livremente para fins educacionais e de aprendizado.
+
